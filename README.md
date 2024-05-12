@@ -21,8 +21,6 @@ Nosso aplicativo inovador utiliza o poder da inteligência artificial do Google 
 **Uma Voz para Todos** é mais do que um aplicativo. É uma ponte que conecta gerações, quebra barreiras e promove a inclusão. É a tecnologia trabalhando para um futuro mais justo e acessível para todos.
 
 ### Como contribuir para essa missão?
-
-- **Experimente o código:** Clone este repositório, siga as instruções no arquivo README.md e veja a mágica acontecer!
    
 - **Compartilhe a ideia:** Espalhe a palavra sobre o **Uma Voz para Todos** e ajude-nos a alcançar aqueles que mais precisam.
    
