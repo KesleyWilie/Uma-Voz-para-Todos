@@ -8,6 +8,9 @@ Imagine um mundo onde a informação escrita não é mais uma barreira. Um mundo
 
 Nosso aplicativo inovador utiliza o poder da inteligência artificial do Google para transformar imagens em áudio, tornando a informação escrita acessível para todos.
 
+[Link para o Código](main.py)
+
+
 ### Como funciona a mágica?
 
 1. **Capture a Informação:** Tire uma foto de qualquer texto usando a câmera do seu dispositivo ou carregue uma imagem da sua galeria.
